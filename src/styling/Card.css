@@ -1,0 +1,14 @@
+.cardContainer{
+    border: 1px solid red;
+    height: fit-content;
+    width: fit-content;
+    border: 6px solid rgb(255, 255, 255);
+    border-radius: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: 100%;
+}
