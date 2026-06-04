@@ -1,0 +1,15 @@
+.appContainer {
+  background-image: url("./assets/naruto.jpg");
+  background-size: cover;
+  min-height: 100vh;
+  background-attachment: fixed;
+  color: white;
+}
+
+.cardContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  place-items: center;
+  gap: 2rem;
+  padding: 1rem;
+}
